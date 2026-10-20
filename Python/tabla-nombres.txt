@@ -1,0 +1,5 @@
+Nombre	Apellidos	Edad	Mascota
+Alejandra	Gutiérrez González	38	Perro
+Irene	Del Hierro García	32	Gato
+Fulanito	Menganito Pepito	45	Peces
+Pepito	Lápiz Sacapuntas	24	Cobaya
